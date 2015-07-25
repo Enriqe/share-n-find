@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  lost_date: 2015-07-25 13:17:57
+  location: MyString
+  comments: MyText
+
+two:
+  name: MyString
+  lost_date: 2015-07-25 13:17:57
+  location: MyString
+  comments: MyText
